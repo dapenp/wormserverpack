@@ -1,0 +1,6 @@
+# Ignore jar files and runtime caches/logs
+*.jar
+*.log
+.cache/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+name = "АЕРОХУЙ"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "76d3714ed113015fe17a479a66914382ae04f2c66c8dcb7107fd699b4487ceef"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.262"

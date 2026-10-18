@@ -1,0 +1,13 @@
+name = "Create Aero [Offroad] Addon: StickyWheels"
+filename = "stickywheels-1.21.1-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef2b424a8caa259ecd548e027ed86789c31185bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8490161
+project-id = 1545370

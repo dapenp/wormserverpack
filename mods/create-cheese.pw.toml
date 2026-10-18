@@ -1,0 +1,13 @@
+name = "Create: Cheese Factory"
+filename = "create_cheese_factory-1.5.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6b294b144dcccac13ce06674dd131a5340e9c78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7503072
+project-id = 1163890

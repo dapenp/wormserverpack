@@ -1,0 +1,13 @@
+name = "Better Zoom"
+filename = "betterzoom-neoforge-1.21.1-2.9.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "0e9179ce1c22ebccab50c8ec47978a9ce5bbbdf3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8653214
+project-id = 1215920

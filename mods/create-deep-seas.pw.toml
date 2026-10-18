@@ -1,0 +1,13 @@
+name = "Create  Deep Seas [BETA]"
+filename = "ALPHA-2 create_submarine-3.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9446a6ae9ad462e1991cb0b03483dbd1fa762eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9231952
+project-id = 1533137

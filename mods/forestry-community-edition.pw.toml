@@ -1,0 +1,13 @@
+name = "Forestry: CE"
+filename = "forestry-1.21.1-3.0.0-alpha8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "093f7b764c0faf03b3b45c9337464b196ef9705b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8782913
+project-id = 1056828

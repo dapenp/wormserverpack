@@ -1,0 +1,13 @@
+name = "Create:Butter Cat"
+filename = "createbuttercat-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "559aebb5b6a2462c54c02735bcc70b414d627246"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8008328
+project-id = 1495836
