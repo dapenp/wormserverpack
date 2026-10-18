@@ -3,11 +3,11 @@ filename = "createbuttercat-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "559aebb5b6a2462c54c02735bcc70b414d627246"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3i1BRLA9/versions/ancqxeG4/createbuttercat-1.2.jar"
+hash-format = "sha512"
+hash = "de9e7e1ac7011d526c8f822876a03bfabe0d2063a7ae8ba3619403fc947740abd514f8192fd9b5ba3585ea4bcee23c3a12932fcfcec244c6c538b49c94d4343f"
 
 [update]
-[update.curseforge]
-file-id = 8008328
-project-id = 1495836
+[update.modrinth]
+mod-id = "3i1BRLA9"
+version = "ancqxeG4"

@@ -1,5 +1,6 @@
 # Ignore jar files and runtime caches/logs
 *.jar
+*.mrpack
 *.log
 .cache/
 .DS_Store

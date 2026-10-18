@@ -3,11 +3,11 @@ filename = "estrogen-6.0.10+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3e9daf9d648b7a475c3afd143d5b7d8ce86189df"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/jLNES5cw/estrogen-6.0.10%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "47477936cf51fb1cd55f3603ecd36c14c3295284fdccc5f6587581bfd49abff7f4ff7c45dcadf0e4f3eb5d966ac8e2a41fdcf4722e3540d189cd4ecdc244dfe3"
 
 [update]
-[update.curseforge]
-file-id = 8941156
-project-id = 850410
+[update.modrinth]
+mod-id = "HhIJW8n1"
+version = "jLNES5cw"

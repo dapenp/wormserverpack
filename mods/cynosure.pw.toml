@@ -3,11 +3,11 @@ filename = "cynosure-1.0.3-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ce0f151a1dc5d4a1479ee500724b104d1cb153f4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4JVfdODB/versions/lpFSq579/cynosure-1.0.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "4a00a8031a47fd1ab76f04fbc6cda4a512c87571e7adf80d548f1733952ae8df172dba0ab88af3395bcb0772283b766b5d639386279cb2fbd3519beeefca8f04"
 
 [update]
-[update.curseforge]
-file-id = 8940916
-project-id = 1259952
+[update.modrinth]
+mod-id = "4JVfdODB"
+version = "lpFSq579"

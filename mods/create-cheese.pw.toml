@@ -3,11 +3,11 @@ filename = "create_cheese_factory-1.5.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d6b294b144dcccac13ce06674dd131a5340e9c78"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/mdJuXlKN/versions/ypKQ14L3/create_cheese_factory-1.5.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "3e41fddaac19f63f2ff660fb879e922eab94deab9174baeaf69fac02783d854cf1592aaefc528a387c0008fc678464d4a1a26bfb9bfcfeff60d8108a6221b636"
 
 [update]
-[update.curseforge]
-file-id = 7503072
-project-id = 1163890
+[update.modrinth]
+mod-id = "mdJuXlKN"
+version = "ypKQ14L3"

@@ -3,11 +3,11 @@ filename = "Female-Gender-Mod-neoforge-1.21-3.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f2e4027d0943c04700173a97c88aaebb1f1777ad"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/kKffHCGl/Female-Gender-Mod-neoforge-1.21-3.2.2.jar"
+hash-format = "sha512"
+hash = "99a56830fcb47d7a2f74f4985069e4af0bf1cd8907ccf4c3d2cb593c903a87eeb7fa70dc47e3943b6b320bd97a3530d77d54e4c85ef63462dc838cc735a3097f"
 
 [update]
-[update.curseforge]
-file-id = 5579007
-project-id = 481655
+[update.modrinth]
+mod-id = "bcOsQHnC"
+version = "kKffHCGl"

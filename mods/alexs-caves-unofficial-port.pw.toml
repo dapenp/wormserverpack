@@ -3,11 +3,11 @@ filename = "alexscaves-2.0.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "366ddaac40f14cd0102f026b4d999753fc1db2a4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kSsLSjEt/versions/pC1MYhqR/alexscaves-2.0.10.jar"
+hash-format = "sha512"
+hash = "5d933f9276ecc721ea67585e56149cbc9450c0036fc6f8a6fbed041d48ebfb8c286cd762477ef63efc2c0a186d0c5598a853002c9524c229d7f55ddee5d21651"
 
 [update]
-[update.curseforge]
-file-id = 7981977
-project-id = 1420348
+[update.modrinth]
+mod-id = "kSsLSjEt"
+version = "pC1MYhqR"
