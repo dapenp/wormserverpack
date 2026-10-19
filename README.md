@@ -30,3 +30,4 @@
 ```bash
 java -jar packwiz-installer-bootstrap.jar -s server https://raw.githubusercontent.com/dapenp/wormserverpack/main/pack.toml
 ```
+ дапеноп какашка
