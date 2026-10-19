@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "iceandfire:dragonbone_axe"
+    },
+    {
+      "item": "iceandfire:fire_dragon_blood"
+    }
+  ],
+  "results": [
+    {
+      "id": "kubejs:dragon_axe_fire"
+    }
+  ]
+}

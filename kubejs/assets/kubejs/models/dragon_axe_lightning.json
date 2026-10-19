@@ -1,0 +1,10 @@
+{
+  "loader": "neoforge:separate_transforms",
+  "gui_light": "front",
+  "base": { "parent": "kubejs:item/dragon_axe_lightning_hand" },
+  "perspectives": {
+    "gui":    { "parent": "kubejs:item/dragon_axe_lightning_icon" },
+    "ground": { "parent": "kubejs:item/dragon_axe_lightning_icon" },
+    "fixed":  { "parent": "kubejs:item/dragon_axe_lightning_icon" }
+  }
+}
