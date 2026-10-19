@@ -5,6 +5,138 @@ file = "README.md"
 hash = "8761bc66b7e472ddd45093a710ab0bd0712e182c55b284aeebdd57ddb37e5c7c"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/dragon_axe_fire.json"
+hash = "9ee84d15c0ec908bce58c927ba8a180a1e03ad3250c06c060802b63a802da866"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/dragon_axe_fire_hand.json"
+hash = "66368b17a10d333b99affbdfd886572cebb31b16c8e29e00a87fb1fc9988c2d6"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/dragon_axe_fire_icon.json"
+hash = "e975c85f98b50bd4b95c89ba2e20b3bd5301614756ef02f5a02001077f17ba1b"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/dragon_axe_ice.json"
+hash = "146bed54221e0a055dbc62b6243a7b2d9dfd8596d42ca9a00d7e6647817cdc89"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/dragon_axe_ice_hand.json"
+hash = "edb46e54ba5e530b7022802abdb644bf56299535c8a0948230b26d9bab883589"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/dragon_axe_ice_icon.json"
+hash = "e072509a95aa9b6fa723917d1b4daeb2b057677b0b5fbfb277040f82c01eebf6"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/dragon_axe_lightning.json"
+hash = "360bd2fe4aeb6b8f5a088c3c9b3e15a64166800d42c5b2ee994fcb4e7f12a897"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/dragon_axe_lightning_hand.json"
+hash = "42c9d37e2afb931a7e26800b6127ed529d854e9a02eabdad325ae71a53e346b4"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/dragon_axe_lightning_icon.json"
+hash = "04d7dc10e1789716297a609fe2174233fbad9694821621b97ca829c95c3f95ab"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/dragon_axe_fire.json"
+hash = "66368b17a10d333b99affbdfd886572cebb31b16c8e29e00a87fb1fc9988c2d6"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/dragon_axe_ice.json"
+hash = "edb46e54ba5e530b7022802abdb644bf56299535c8a0948230b26d9bab883589"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/dragon_axe_lightning.json"
+hash = "42c9d37e2afb931a7e26800b6127ed529d854e9a02eabdad325ae71a53e346b4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dragon_axe_fire.png"
+hash = "4d9d708f5d6b970ecd8d7bb5ca97bf3f833c6f7a5c61313801212bb9f88a4c9d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dragon_axe_fire_icon.png"
+hash = "bb83a951e50f409596e27aaa7ebc6925ed7f0fd1a7f3fbae4ead6005e2b70c92"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dragon_axe_ice.png"
+hash = "f0064f40f3c9e78f315197eeed6d54816c5fd21544673f88694c284ae0296e81"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dragon_axe_ice_icon.png"
+hash = "a920e8362c4902cef7eaf72f3654acca989bbee81b3f550099b29e96e74e4c17"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dragon_axe_lightning.png"
+hash = "645fd1ecdb452e185b379d2d20070244dfb278036a616b549ffc00487eaf383b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dragon_axe_lightning_icon.png"
+hash = "60510d1dcdc38a559457ceb6e5e0c60205ef65c4333e2f8d85e28ad73ec08463"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "e9c9d2c5cb322cc771438794ddffbbf01e928cabdc88b064c88b0fb59a82342f"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/dragonbone_axe_fire.json"
+hash = "47fbf164b3ab8628b30e7294b7d90b944d1ae542461ccdf79dec9880c3223f06"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/dragonbone_axe_ice.json"
+hash = "90cab1b9a4cfd4ca9bc9550aba71bb6c38833232ffb1366585c181aa31844428"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/dragonbone_axe_lightning.json"
+hash = "96837a8247c0deec32b0af930bb13f220ebf6eeca9e37d4aa7d81d08564d1340"
+
+[[files]]
+file = "kubejs/server_scripts/fire_axe_knockback.js"
+hash = "e2cffc4213fd854ba5c300d9bd464ce8f5c85474e904d40c9873fa62b61d646a"
+
+[[files]]
+file = "kubejs/server_scripts/item_logic.js"
+hash = "3138230f596cad14081cd6abb7e784d3be3cbedf1b143d4ecb8cabe29372012b"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/startup_scripts/custom_tier.js"
+hash = "54f4e6d8f054228b5ced8b370a493653e2e2b202b0ffc566c96ec3fbe23aef6f"
+
+[[files]]
+file = "kubejs/startup_scripts/items.js"
+hash = "37cbb869baf6911fb780982020271c50d3942e7b931c36041278fdc69acff791"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
