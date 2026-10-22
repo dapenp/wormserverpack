@@ -342,6 +342,11 @@ hash = "c7e60cd6aa4a70b917e527c2d90770f0c55446cb1489b210fe310de65bc0d180"
 metafile = true
 
 [[files]]
+file = "mods/create-lift-n-load.pw.toml"
+hash = "77fe9aeb9f970359adfbe2b929ffc65b595dd5dbe48bc164c04601bbd19322fa"
+metafile = true
+
+[[files]]
 file = "mods/create-netherite-additions.pw.toml"
 hash = "775871e90813da23cadb8bab04eefc70e1bb08c50608e634c726d6178835c635"
 metafile = true
