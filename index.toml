@@ -5,6 +5,11 @@ file = "README.md"
 hash = "8226cab03ae2f52584f1a13b4cca7d81bd025266683a03f0f9cd6df14901caeb"
 
 [[files]]
+file = "config/ftbchunks-client.snbt"
+hash = "a31242e56799b38790151d3d949d0bf41b1a2b3f0c40f39fa36df7b0fec3aff2"
+preserve = true
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 

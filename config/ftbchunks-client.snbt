@@ -1,0 +1,12 @@
+# Default client configuration for FTB Chunks
+# Configured to avoid conflict with Xaero's Minimap & World Map
+{
+	minimap: {
+		# Disables FTB Chunks corner minimap
+		enabled: false
+	}
+	waypoints: {
+		# Disables in-world waypoint rendering (handled by Xaero's Minimap)
+		in_world_waypoints: false
+	}
+}
