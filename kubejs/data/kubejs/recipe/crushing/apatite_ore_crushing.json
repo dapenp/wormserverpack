@@ -1,0 +1,31 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "forestry:apatite_ore"
+    }
+  ],
+  "results": [
+    {
+      "id": "createbb:white_phosphorus",
+      "count": 1,
+      "chance": 1
+    },
+    {
+      "id": "createbb:white_phosphorus",
+      "count": 1,
+      "chance": 0.75
+    },
+    {
+      "id": "create:experience_nugget",
+      "count": 1,
+      "chance": 0.75
+    },
+        {
+      "id": "minecraft:cobblestone",
+      "count": 1,
+      "chance": 0.12
+    }
+  ],
+  "processingTime": 100
+}

@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "fluid": "minecraft:water",
+      "amount": 30
+    },
+    {
+      "item": "createbb:copper_zinc_catalyst"
+    }
+  ],
+  "results": [
+    {
+      "id": "createbb:oxygen",
+      "amount": 10
+    },
+    {
+      "id": "tfmg:hydrogen",
+      "amount": 20
+    },
+    {
+      "id": "createbb:copper_zinc_catalyst",
+      "count": 1
+    }
+  ]
+}

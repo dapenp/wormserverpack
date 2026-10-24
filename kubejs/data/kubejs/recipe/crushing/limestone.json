@@ -1,0 +1,13 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "create:stone_types/limestone"
+    }
+  ],
+  "results": [
+    {
+      "id": "tfmg:limesand"
+    }
+  ]
+}
