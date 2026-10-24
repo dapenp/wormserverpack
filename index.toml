@@ -106,6 +106,30 @@ file = "kubejs/config/web_server.json"
 hash = "e9c9d2c5cb322cc771438794ddffbbf01e928cabdc88b064c88b0fb59a82342f"
 
 [[files]]
+file = "kubejs/data/createbb/recipe/methanol_mixing.json"
+hash = "42a3c2f46f91fe82a114186bd9516c779cce636ab40b9001cfa5c8ead8c7db73"
+
+[[files]]
+file = "kubejs/data/createbb/recipe/water_electrolysis.json"
+hash = "fd1354ff7702b04ca24eb682af62fdbd484157e51aaccdf69feb923adda7d60d"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crushing/apatite_crushing.json"
+hash = "93b0fd4e2e4eb352daa03a4542e614444cf5cd8281c8fa43661f106ccc316ff7"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crushing/apatite_deeplate_ore_crushing.json"
+hash = "e2861d2b37f79af9f3cf363e7dbc7d032631a31edb941dcf8b503ab1bf853a73"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crushing/apatite_ore_crushing.json"
+hash = "fb6092e1066f6d2ea9132c5176af755c0cd8097a5c1d81c80f558ff58eb2ecba"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crushing/limestone.json"
+hash = "d5d9469b881838ab4d20a6e45ecf3111d28fecf4f7d3a3bf6c098d0d18d32157"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/dragonbone_axe_fire.json"
 hash = "47fbf164b3ab8628b30e7294b7d90b944d1ae542461ccdf79dec9880c3223f06"
 
@@ -118,6 +142,14 @@ file = "kubejs/data/kubejs/recipe/dragonbone_axe_lightning.json"
 hash = "96837a8247c0deec32b0af930bb13f220ebf6eeca9e37d4aa7d81d08564d1340"
 
 [[files]]
+file = "kubejs/data/kubejs/tags/fluid/hydrogen.json"
+hash = "76da4a00ec122b761830af1680c0efabcd0406763f80c0230bfb8ba2b9e974ee"
+
+[[files]]
+file = "kubejs/server_scripts/emi_remove.js"
+hash = "ee7d859e5bbda730b01afee4f15aa1f06b7416e6d31ad9374b0edca1308803f9"
+
+[[files]]
 file = "kubejs/server_scripts/fire_axe_knockback.js"
 hash = "0be9586189322d2dfb904d25315f2425a32720caf12967a04fff4115369e370b"
 
@@ -128,6 +160,10 @@ hash = "b639d4c442666aa10438798c417a51941edf600757d5359d8a9afb347b0dbb55"
 [[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/server_scripts/remove_craft.js"
+hash = "ec4cc16de575691af1c99e3a570c9c42f255b925c09ea4a5697d577710e6be20"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_tier.js"
