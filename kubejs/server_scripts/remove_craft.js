@@ -25,5 +25,7 @@ ServerEvents.recipes(event => {
   event.remove({ id: 'createbb:limestone_tag_crushing' })
   event.remove({ id: 'createbb:limestone_crushing' })
 
+  event.remove({ id: 'aeronautics_utility_objects:damping_stress_bearing' })
+
 
 })

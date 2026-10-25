@@ -1,0 +1,120 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:dragon_axe_ice"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_ice_axe"
+        },
+        {
+          "item": "iceandfire:dragonsteel_ice_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_ice_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_ice_axe"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_ice_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_ice_axe"
+        },
+        {
+          "item": "iceandfire:dragonsteel_ice_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_ice_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_ice_axe"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_ice_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_ice_axe"
+        },
+        {
+          "item": "iceandfire:dragonsteel_ice_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_ice_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_ice_axe"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_ice_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_ice_axe"
+        },
+        {
+          "item": "iceandfire:ice_dragon_heart"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_ice_axe"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "iceandfire:dragonsteel_ice_axe"
+    }
+  ],
+  "loops": 1,
+  "transitional_item": {
+    "id": "iceandfire:dragonsteel_ice_axe"
+  }
+}

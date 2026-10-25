@@ -1,0 +1,120 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:dragon_axe_lightning"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_lightning_axe"
+        },
+        {
+          "item": "iceandfire:dragonsteel_lightning_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_lightning_axe"
+        },
+        {
+          "item": "iceandfire:dragonsteel_lightning_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_lightning_axe"
+        },
+        {
+          "item": "iceandfire:dragonsteel_lightning_ingot"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "iceandfire:dragonsteel_lightning_axe"
+        },
+        {
+          "item": "iceandfire:lightning_dragon_heart"
+        }
+      ],
+      "results": [
+        {
+          "id": "iceandfire:dragonsteel_lightning_axe"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "iceandfire:dragonsteel_lightning_axe"
+    }
+  ],
+  "loops": 1,
+  "transitional_item": {
+    "id": "iceandfire:dragonsteel_lightning_axe"
+  }
+}

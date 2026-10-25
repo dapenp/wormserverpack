@@ -114,6 +114,18 @@ file = "kubejs/data/createbb/recipe/water_electrolysis.json"
 hash = "fd1354ff7702b04ca24eb682af62fdbd484157e51aaccdf69feb923adda7d60d"
 
 [[files]]
+file = "kubejs/data/iceandfire/recipe/dragonsteel_fire_axe.json"
+hash = "b970efb6155c566e160627a332db2dc388099bcb482ce3638a00685b9aec5275"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipe/dragonsteel_ice_axe.json"
+hash = "1cddbe08e1820dc5a63bfa87408ead3ff6fe49e7fddb8600a5b460f08a15bf2a"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipe/dragonsteel_lightning_axe.json"
+hash = "6b26281ad85a9b9d41d5799ad8a960fdbb8947211d7c7bf83dece237026a371f"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/crushing/apatite_crushing.json"
 hash = "93b0fd4e2e4eb352daa03a4542e614444cf5cd8281c8fa43661f106ccc316ff7"
 
@@ -147,7 +159,7 @@ hash = "76da4a00ec122b761830af1680c0efabcd0406763f80c0230bfb8ba2b9e974ee"
 
 [[files]]
 file = "kubejs/server_scripts/emi_remove.js"
-hash = "ee7d859e5bbda730b01afee4f15aa1f06b7416e6d31ad9374b0edca1308803f9"
+hash = "7a6a3d9cbb32c1f46a7b2d6dcacc91ac0148839b915bbb1f684a5c2526cf414e"
 
 [[files]]
 file = "kubejs/server_scripts/fire_axe_knockback.js"
@@ -163,7 +175,7 @@ hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
 file = "kubejs/server_scripts/remove_craft.js"
-hash = "ec4cc16de575691af1c99e3a570c9c42f255b925c09ea4a5697d577710e6be20"
+hash = "b40bf708855fc8c8a87171d36473578dcbd9081d8dd8f0f201468e5aab07521c"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_tier.js"
