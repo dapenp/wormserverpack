@@ -395,11 +395,6 @@ hash = "77fe9aeb9f970359adfbe2b929ffc65b595dd5dbe48bc164c04601bbd19322fa"
 metafile = true
 
 [[files]]
-file = "mods/create-netherite-additions.pw.toml"
-hash = "775871e90813da23cadb8bab04eefc70e1bb08c50608e634c726d6178835c635"
-metafile = true
-
-[[files]]
 file = "mods/create-ornithopter-glider.pw.toml"
 hash = "60c1fc541d1f0b66489fa9e01ca1134a4173eb7fd33063951762d466c4d920d3"
 metafile = true
