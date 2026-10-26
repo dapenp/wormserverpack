@@ -1,0 +1,13 @@
+name = "TeamsOffliner"
+filename = "TeamsOffline1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff684302848f40a947fc4638f14adc631f276d79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7578493
+project-id = 1454454

@@ -765,6 +765,11 @@ hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
 
 [[files]]
+file = "mods/teamsoffliner.pw.toml"
+hash = "0f8b3fd71616216e4a86e7d8eb813181b62633abccf0a7932cf3b9129d986b1d"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
