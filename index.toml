@@ -560,6 +560,11 @@ hash = "06759bb53b301b549a87b87c9e72bdacc9b1f1f85457915bad0f5d5a26f58209"
 metafile = true
 
 [[files]]
+file = "mods/im-fast.pw.toml"
+hash = "07fa2e0f96d91ea3cb6859c58c2f3738b4a64a7f5e3e050d5e44f4a1809ea7cb"
+metafile = true
+
+[[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
 metafile = true
