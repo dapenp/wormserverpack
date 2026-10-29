@@ -400,6 +400,11 @@ hash = "60c1fc541d1f0b66489fa9e01ca1134a4173eb7fd33063951762d466c4d920d3"
 metafile = true
 
 [[files]]
+file = "mods/create-radiologistics.pw.toml"
+hash = "1b3562f5dcce3f43f4cd893d6dcacb7f27e743d98ed8115c79dd1845f13f36a6"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "2244c6c580c41f432e02bc82a6f78af0b1777de42400d1e5b702208376c56c6f"
 metafile = true
