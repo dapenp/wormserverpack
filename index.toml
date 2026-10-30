@@ -14,6 +14,14 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/iceandfire/models/item/dragonbone_axe.json"
+hash = "39f4f44628259a147a92af0ec364511c664ebf3f25748e85e971db48f0ba5824"
+
+[[files]]
+file = "kubejs/assets/iceandfire/textures/item/dragon_axe.png"
+hash = "04ada0dda4b7d3ab7c1343dad364548adb4748b13141f5a9067fe4563d5c835d"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/dragon_axe_fire.json"
 hash = "9ee84d15c0ec908bce58c927ba8a180a1e03ad3250c06c060802b63a802da866"
 
